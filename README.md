@@ -1,1 +1,1 @@
-# lavinia
+python3 run.py
